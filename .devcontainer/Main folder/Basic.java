@@ -1,5 +1,7 @@
 public class Basic {
-    public static void main(String[] args){
-        System.out.println("This is Ganesh Kumar");
+    public static void main(String[] args) {
+        System.out.println("Hello India");
+
     }
+
 }
